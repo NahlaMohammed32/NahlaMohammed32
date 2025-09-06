@@ -24,24 +24,4 @@
 <code><img height="20" alt="dotnet" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"></code>
 <code><img height="20" alt="csharp" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png"></code>
 
-| <a href="https://github.com/nahlamohamed"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nahlamohamed&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nahla's github stats" /></a> | <a href="https://github.com/nahlamohamed"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahlamohamed&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
-#### Top Repositories
-
-<a href="https://github.com/nahlamohamed/ecommerce-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nahlamohamed&repo=ecommerce-project&theme=buefy" />
-</a>
-<a href="https://github.com/nahlamohamed/real-estate-platform">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nahlamohamed&repo=real-estate-platform&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://www.linkedin.com/in/nahlamohamed">
-  <img align="right" alt="Nahla Mohamed | LinkedIn" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/linkedin.svg" />
-</a>
-<a href="https://codesandbox.io/u/nahlamohamed">
-  <img align="right" alt="Nahla Mohamed | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
