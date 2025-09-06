@@ -1,17 +1,12 @@
-<p align="center">
-  <a href="#">
-    <img width="80%" alt="Hello, I'm Nahla. I build the web!" src="./assets/gh-readme-header.png" />
-  </a>
-</p>
+<h1 align="center">Hi 👋, I'm Nahla Mohamed</h1>
+<h3 align="center">A passionate Frontend Developer from Egypt</h3>
 
 <br />
-
-I'm a passionate **Frontend Developer** from Egypt 🇪🇬
 
 **About me**
 
 - 🎓 Graduated from **ITI – Full Stack .NET Track**
-- 💼 Focused on **Frontend Development** (Angular • React • TypeScript • JavaScript)
+- 💼 Focused on **Frontend Development** (Angular • React • TypeScript • JavaScript • .NET)
 - 🛍 Built projects in **E-commerce, Real Estate, and Skilled Workers Platforms**
 - ❤️ I love crafting clean UIs & bringing ideas to life on the web
 - 📚 Always learning and exploring modern web technologies
@@ -26,8 +21,8 @@ I'm a passionate **Frontend Developer** from Egypt 🇪🇬
 <code><img height="20" alt="angular" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
 <code><img height="20" alt="bootstrap" src="https://raw.githubusercontent.com/github/explore/master/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
-<code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
+<code><img height="20" alt="dotnet" src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png"></code>
+<code><img height="20" alt="csharp" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png"></code>
 
 | <a href="https://github.com/nahlamohamed"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nahlamohamed&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nahla's github stats" /></a> | <a href="https://github.com/nahlamohamed"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahlamohamed&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
